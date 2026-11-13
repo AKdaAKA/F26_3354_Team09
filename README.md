@@ -27,3 +27,5 @@ java -cp out:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar edu.utd.studentlife.
 ## Outcome
 
 5 tests passed with 0 failures.
+
+Requires JDK 21. No other dependencies are needed to install (JUnit jars are in lib/) and no environment variables needed
